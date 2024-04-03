@@ -25,7 +25,7 @@ export default function page() {
           <p className=" text-base lg:text-lg font-semibold w-full lg:w-1/2 mb-16 leading-loose dark:text-slate-200 text-slate-800 mt-8">
             The Revuelto is the beginning of a new era for Lamborghini, who has
             harnessed the power of hybridization technology to create the first
-            HPEV (High Performance Electrified Vehicle). Responding to the need
+            HPEV High Performance Electrified Vehicle. Responding to the need
             for sustainability and powerful performance, the Lamborghini
             Revuelto rewrites all paradigms and represents a technical
             masterpiece beyond anyones imagination. The iconic V12 engine finds
@@ -65,16 +65,16 @@ export default function page() {
             className=" -translate-x-0 2xl:-translate-x-[50%] xl:-translate-x-[30%] lg:-translate-x-[20%]"
           />
           <p className="  text-base lg:text-lg font-semibold lg:w-[40%] w-full mb-12 lg:mb-16 leading-loose dark:text-slate-200 text-slate-800 mt-8">
-            From our past, we've learned perfection. This is how the first model
-            of the Lamborghini Huracán was born. More performance, more control,
-            more innovation. The Huracán is equipped with a powerful V10 engine
-            and the latest technologies to perform at its absolute best.
-            Engineered to guarantee the best performance and control under any
-            driving condition, it's easy to take to the limit, not to mention
-            extremely fun, thanks to technology like the Lamborghini Doppia
-            Frizione (LDF) dual clutch gearbox and the electronically-controlled
-            four-wheel drive. Enjoy the best driving experience, ever. Discover
-            all the Lamborghini Huracán models.
+            From our past, we have learned perfection. This is how the first
+            model of the Lamborghini Huracán was born. More performance, more
+            control, more innovation. The Huracán is equipped with a powerful
+            V10 engine and the latest technologies to perform at its absolute
+            best. Engineered to guarantee the best performance and control under
+            any driving condition, it is easy to take to the limit, not to
+            mention extremely fun, thanks to technology like the Lamborghini
+            Doppia Frizione LDF dual clutch gearbox and the
+            electronically-controlled four-wheel drive. Enjoy the best driving
+            experience, ever. Discover all the Lamborghini Huracán models.
           </p>
         </div>
         <div
@@ -111,8 +111,8 @@ export default function page() {
             className=" lg:w-[300px] md:w-[200px] w-[150px]"
           />
           <p className=" text-base lg:text-lg font-semibold w-full lg:w-1/2 mb-16 leading-loose dark:text-slate-200 text-slate-800 mt-8">
-            Lamborghini Urus is the world's first Super Sport Utility Vehicle,
-            in which luxury, sportiness and performance meet comfort and
+            Lamborghini Urus is the world first Super Sport Utility Vehicle, in
+            which luxury, sportiness and performance meet comfort and
             versatility. It offers best-in-class driving dynamics, alongside its
             unmistakable elegance of design. Urus embodies the characteristics
             of multiple souls: sporty, elegant and off-road, and has a
